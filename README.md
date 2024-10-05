@@ -93,12 +93,12 @@ Using a **3.7V 300mAh LiPo battery**:
 ## Procedure
 
 - When Smart watch is Powered it shows Date and Time as below on Display.
-<img src="/images/image6.png" alt="Description" width="400" height="300">
+<img src="/images/image5.png" alt="Description" width="400" height="250">
 - When Button is pressed, screen changes and shows Heart Rate as below on Display.
-![Alt text](/images/image6.png)
+<img src="/images/image6.png" alt="Description" width="400" height="250">
 - When Button is pressed, screen changes and shows Tempertature and Humidity as below on Display.
-![Alt text](/images/image7.png)
+<img src="/images/image7.png" alt="Description" width="400" height="250">
 - When Button is pressed, screen changes and shows Altitude and Pressure as below on Display.
-![Alt text](/images/image8.png)
+<img src="/images/image8.png" alt="Description" width="400" height="250">
 - When Button is pressed, screen changes and shows Steps Count as below on Display and so on.
-![Alt text](/images/image9.png)
+<img src="/images/image9.png" alt="Description" width="400" height="250">

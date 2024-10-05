@@ -89,3 +89,16 @@ Using a **3.7V 300mAh LiPo battery**:
 - **Battery Life** (in hours):  
   `Battery Life = Battery Capacity (Ah) / Total Current Consumption (A)`  
   `Battery Life = 0.3 Ah / 0.01745 A ≈ 17.2 hours`
+
+## Procedure
+
+- When Smart watch is Powered it shows Date and Time as below on Display.
+![Alt text](/images/image5.png)
+- When Button is pressed, screen changes and shows Heart Rate as below on Display.
+![Alt text](/images/image6.png)
+- When Button is pressed, screen changes and shows Tempertature and Humidity as below on Display.
+![Alt text](/images/image7.png)
+- When Button is pressed, screen changes and shows Altitude and Pressure as below on Display.
+![Alt text](/images/image8.png)
+- When Button is pressed, screen changes and shows Steps Count as below on Display and so on.
+![Alt text](/images/image9.png)

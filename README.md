@@ -93,7 +93,7 @@ Using a **3.7V 300mAh LiPo battery**:
 ## Procedure
 
 - When Smart watch is Powered it shows Date and Time as below on Display.
-![Alt text](/images/image5.png)
+<img src="/images/image6.png" alt="Description" width="400" height="300">
 - When Button is pressed, screen changes and shows Heart Rate as below on Display.
 ![Alt text](/images/image6.png)
 - When Button is pressed, screen changes and shows Tempertature and Humidity as below on Display.

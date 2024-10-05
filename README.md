@@ -18,10 +18,10 @@ This block diagram illustrates the connections between the Seeed Xiao Nrf52840 m
 
 ## PCB
 
-![Alt text](/images/image3.png)
+<img src="/images/image3.png" alt="Description" width="500" height="300">
             Figure:  2D - PCB Layout for the Device.
 
-![Alt text](/images/image4.png)
+<img src="/images/image4.png" alt="Description" width="500" height="300">
 
              Figure: 3D - PCB Layout for the Device.
              
